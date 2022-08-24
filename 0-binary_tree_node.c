@@ -19,10 +19,3 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 
 	return (new);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-[A[C[C[C[C[C[C[A[C[C[C[C[A[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C
